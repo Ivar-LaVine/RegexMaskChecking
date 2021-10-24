@@ -1,0 +1,7 @@
+D:\Study\DB\Practice Work 1\MaskStringChecking\MaskStringChecking\obj\Debug\MaskStringChecking.csprojAssemblyReference.cache
+D:\Study\DB\Practice Work 1\MaskStringChecking\MaskStringChecking\obj\Debug\MaskStringChecking.csproj.CoreCompileInputs.cache
+D:\Study\DB\Practice Work 1\MaskStringChecking\MaskStringChecking\bin\Debug\MaskStringChecking.exe.config
+D:\Study\DB\Practice Work 1\MaskStringChecking\MaskStringChecking\bin\Debug\MaskStringChecking.exe
+D:\Study\DB\Practice Work 1\MaskStringChecking\MaskStringChecking\bin\Debug\MaskStringChecking.pdb
+D:\Study\DB\Practice Work 1\MaskStringChecking\MaskStringChecking\obj\Debug\MaskStringChecking.exe
+D:\Study\DB\Practice Work 1\MaskStringChecking\MaskStringChecking\obj\Debug\MaskStringChecking.pdb
